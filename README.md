@@ -1,7 +1,5 @@
 # Heart-Disease-Predictor
 
-# Heart Disease Prediction
-
 This repository contains code for a heart disease prediction project. The project focuses on predicting the presence of heart disease based on various features using machine learning algorithms. The code, along with the dataset, has been used to analyze and predict heart disease with a focus on classification algorithms.
 
 ## Table of Contents
