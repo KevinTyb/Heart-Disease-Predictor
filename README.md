@@ -16,7 +16,7 @@ This repository contains code for a heart disease prediction project. The projec
 
 ## Overview
 
-This project is part of a university assignment and serves as a demonstration of using machine learning for binary classification. Several machine learning algorithms, including Logistic Regression, Random Forest, K-Nearest Neighbors, and Decision Tree, were applied to predict heart disease.
+This is a personal project and serves as a demonstration of using machine learning for binary classification. Several machine learning algorithms, including Logistic Regression, Random Forest, K-Nearest Neighbors, and Decision Tree, were applied to predict heart disease.
 
 ## Dataset
 
