@@ -7,9 +7,6 @@ This repository contains code for a heart disease prediction project. The projec
 - [Overview](#overview)
 - [Dataset](#dataset)
 - [Usage](#usage)
-- [Results](#results)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Overview
